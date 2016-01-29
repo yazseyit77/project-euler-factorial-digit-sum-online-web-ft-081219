@@ -26,4 +26,4 @@ The factorial of a non-negative integer n, denoted by n!, is the product of all 
 
 ## Source
 - [Project Euler](https://projecteuler.net/) - [Problem 16](https://projecteuler.net/problem=20)
-<a href='https://learn.co/lessons/project-euler-factorial-digit-sum' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/project-euler-factorial-digit-sum' title='Project Euler Factorial Digit Sum'>Project Euler Factorial Digit Sum</a> on Learn.co and start learning to code for free.</p>
