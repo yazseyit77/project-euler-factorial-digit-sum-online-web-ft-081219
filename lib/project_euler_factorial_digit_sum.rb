@@ -9,5 +9,5 @@ def factorial(n)
 end
 
 def sum_of_digits(n)
-
+  n.to_s.chars.map{|k| k.to_i}.reduce(:+)
 end
